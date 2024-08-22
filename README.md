@@ -1,8 +1,12 @@
 ### GitHub Stats
-![](https://github-readme-streak-stats.herokuapp.com/?user=1guccii&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=1guccii&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=1guccii&theme=dark&hide_border=true" /><br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1guccii&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" />
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 ### Skills
 
 <p align="left">
